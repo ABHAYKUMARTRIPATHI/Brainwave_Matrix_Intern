@@ -17,9 +17,13 @@ phishing_scanner/
 
 ## ⚙️ Setup Instructions
 sudo apt update
+
 sudo apt install python3-pip
+
 pip3 install -r requirements.txt
+
 python train_model.py (only first time)
+
 python phishing_scanner.py
 
 
