@@ -6,12 +6,18 @@ This is a Python-based Cybersecurity project that detects phishing URLs using bo
 
 ## 📁 Project Structure
 phishing_scanner/
-├── phishing_scanner.py         # Main scanner script
-├── train_model.py              # Script to train and save the ML model
+
+├── phishing_scanner.py             
+ 
+├── train_model.py                      
+
 ├── model/
-│   └── phishing_model.pkl      # Saved ML model (after training)
-├── requirements.txt            # Required Python packages
-└── README.md                   # Documentation
+
+└── phishing_model.pkl                
+
+├── requirements.txt                     
+
+└── README.md                       
 
 ---
 
