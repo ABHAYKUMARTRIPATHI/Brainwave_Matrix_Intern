@@ -33,4 +33,8 @@ python train_model.py (only first time)
 python phishing_scanner.py
 
 
-✍️ Developed by: Abhay Kumar Tripathi
+✍️ Developed by: 
+Abhay Kumar Tripathi
+[GitHub](https://github.com/ABHAYKUMARTRIPATHI)  
+[LinkedIn](https://www.linkedin.com/in/abhay-kumar-tripathi-54899b31a)  
+[Instagram](https://www.instagram.com/abhaytripathi_46)
